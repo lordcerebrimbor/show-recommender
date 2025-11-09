@@ -1,0 +1,5 @@
+{
+  "name": "AI TV Show Recommender",
+  "description": "An intelligent TV show recommender powered by Gemini. Enter your favorite show and get curated recommendations for what to watch next.",
+  "requestFramePermissions": []
+}
